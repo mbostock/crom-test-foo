@@ -8,6 +8,15 @@
       "url": "https://github.com/d3/d3-format",
       "releaseUrl": "https://github.com/d3/d3-format/releases/tag/v0.5.0",
       "sha": "c7c1fee171767e72c496cd6ce88ab203b7e740c6aeb6eb5add59952337a6ffc8"
+    },
+    {
+      "name": "d3-voronoi",
+      "owner": "d3",
+      "version": "0.2.1",
+      "range": "*",
+      "url": "https://github.com/d3/d3-voronoi",
+      "releaseUrl": "https://github.com/d3/d3-voronoi/releases/tag/v0.2.1",
+      "sha": "1eb846e5b81ea7e25dab3184fa777a8db325d01146cdae02aa589b2349d162b8"
     }
   ]
 }
